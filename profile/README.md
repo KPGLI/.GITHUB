@@ -18,6 +18,18 @@ Tujuan :
     Mengirimkan anggota ke dalam satu proyek tertentu dan turut membantu proyek khususnya.
     Mendonasikan berupa berupa materi baik dana dan dukungan kepada proyek proyek open source lokal indonesia
     Turut serta hadir dalam acara2 seminar, event event open source, salah satunya mengirimkan perwakilan dari KPGLI baik offline dan online.
+```txt
+██╗░░██╗██████╗░░██████╗░██╗░░░░░██╗
+██║░██╔╝██╔══██╗██╔════╝░██║░░░░░██║
+█████═╝░██████╔╝██║░░██╗░██║░░░░░██║
+██╔═██╗░██╔═══╝░██║░░╚██╗██║░░░░░██║
+██║░╚██╗██║░░░░░╚██████╔╝███████╗██║
+╚═╝░░╚═╝╚═╝░░░░░░╚═════╝░╚══════╝╚═╝
+                           Since 2019
+Kelompok Penggiat GNU/Linux Indonesia
+-={   https://kpgli.github.io/   }=-
+```
+
 <!--
 
 **Here are some ideas to get you started:**
