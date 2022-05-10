@@ -12,6 +12,12 @@ Misi :
     Mempererat tali silaturahmi sesama kelompok penggiat Distro GNU/Linux
     Meramaikan  dan turut serta dalam memajukan Distro GNU/Linux Lokal Indonesia
     Mendukung Proyek Open Source Khususnya Lokal Indonesia
+    
+Tujuan :
+
+    Mengirimkan anggota ke dalam satu proyek tertentu dan turut membantu proyek khususnya.
+    Mendonasikan berupa berupa materi baik dana dan dukungan kepada proyek proyek open source lokal indonesia
+    Turut serta hadir dalam acara2 seminar, event event open source, salah satunya mengirimkan perwakilan dari KPGLI baik offline dan online.
 <!--
 
 **Here are some ideas to get you started:**
